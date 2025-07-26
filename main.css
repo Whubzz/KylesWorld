@@ -1,6 +1,7 @@
 body {
     background-color: #000000;
     font-family: Arial, sans-serif;
+
 }
 
 h1 {
@@ -8,11 +9,12 @@ h1 {
     text-align: center;
 }
 
-.buttoncontainer {
+.buttons {
 
     display: flex;
     justify-content: center;  
     align-items: center;  
+    padding: 20px;
 
 }
 
